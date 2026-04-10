@@ -11,7 +11,7 @@ Instead of just plotting graphs, the goal here was to answer practical questions
 
 ## 🔗 Live App
 
-[Live Dashboard](https://zomato-dashboard-ac5yby75yynmw3xmz7hvss.streamlit.app/)
+[Live Dashboard](https://zomato-dashboard-9zcht4rckkihpw82zkueql.streamlit.app/)
 
 ---
 
@@ -103,4 +103,4 @@ This project was less about “making charts” and more about thinking:
 
 ## 👤 Author
 
-Nihal
+Yashvardhan
